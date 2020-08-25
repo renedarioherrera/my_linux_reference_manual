@@ -70,3 +70,21 @@ autoremove (apt-get(8))
 ```
 sudo apt autoremove
 ```
+
+
+## Programs
+
+
+### htop
+
+
+### nethogs
+
+
+### cmus
+
+
+## Partitioning Disks
+
+
+``` gksudo gparted ```
