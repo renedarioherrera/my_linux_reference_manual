@@ -84,7 +84,23 @@ sudo apt autoremove
 ### cmus
 
 
+
+
+
 ## Partitioning Disks
+
+
+## Sound
+
+
+Reload alsa: `sudo alsa force-reload`
+
+
+### cava
+
+
+### alsamixer
+
 
 
 ``` gksudo gparted ```
